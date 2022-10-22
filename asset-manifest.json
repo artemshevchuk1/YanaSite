@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YanaSite/static/css/main.7acaea2f.css",
+    "main.js": "/YanaSite/static/js/main.07d3183d.js",
+    "index.html": "/YanaSite/index.html",
+    "main.7acaea2f.css.map": "/YanaSite/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/YanaSite/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
